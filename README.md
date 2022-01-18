@@ -1,5 +1,5 @@
 ## Management System
-본 프로젝트는 react 강의를 위한 프로그램 입니다.
+본 프로젝트는 react 강의를 위한 프로그램 입니다.1
 
 
 # Getting Started with Create React App
